@@ -1,0 +1,102 @@
+<nav class="border-b">
+  <div class="flex justify-between items-center p-3">
+    <div class="">
+      <a href="">
+        <img src="https://via.placeholder.com/40/2" alt="Logo" class="rounded">
+      </a>
+    </div>
+    <div class="flex items-center space-x-5 underline">
+      <a href="" class="rounded p-1 hover:bg-gray-400">Home</a>
+      <a href="" class="rounded p-1 hover:bg-gray-400">Menu</a>
+      <a href="" class="rounded p-1 hover:bg-gray-400">Account</a>
+    </div>
+    <div class="flex">
+      <a href="" class="transform transition duration-500 hover:scale-125">Order</a>
+    </div>
+  </div>
+</nav>
+
+<section class="border-b p-16">
+  <div class="flex justify-center items-center my-20">
+    <div class="grid grid-cols-1">
+      <div class="text-4xl underline flex justify-center">
+      Bean and Brew
+    </div>
+    <div class="p-2 flex justify-center items-center">
+      Small description.
+    </div>
+    </div>
+  </div>
+</section>
+
+<section class="border-b py-6">
+  <div class="max-w-5xl mx-auto justify-center items-center grid grid-cols-3 gap-4 p-2 pt-6">
+    <div class="max-w-sm p-8 bg-white border border-gray-200 rounded-lg shadow flex justify-between items-center">
+      <div>
+        <div class="pb-4 pl-1 underline text-2xl">Title</div>
+        <a href="" class="inline-flex items-center px-3 py-2 text-sm font-small text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Button</a>
+      </div>
+      <img src="https://via.placeholder.com/50" alt="Image" class="ml-4 w-16 h-16 rounded-full object-cover">
+    </div>
+
+    <div class="max-w-sm p-8 bg-white border border-gray-200 rounded-lg shadow flex justify-between items-center">
+      <div>
+        <div class="pb-4 pl-1 underline text-2xl">Title</div>
+        <a href="" class="inline-flex items-center px-3 py-2 text-sm font-small text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Button</a>
+      </div>
+      <img src="https://via.placeholder.com/50" alt="Image" class="ml-4 w-16 h-16 rounded-full object-cover">
+    </div>
+
+    <div class="max-w-sm p-8 bg-white border border-gray-200 rounded-lg shadow flex justify-between items-center">
+      <div>
+        <div class="pb-4 pl-1 underline text-2xl">Title</div>
+        <a href="" class="inline-flex items-center px-3 py-2 text-sm font-small text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Button</a>
+      </div>
+      <img src="https://via.placeholder.com/50" alt="Image" class="ml-4 w-16 h-16 rounded-full object-cover">
+    </div>
+  </div>
+</section>
+
+
+
+<section class="">
+  <div class=" flex justify-between items-center p-6">
+    <div class="flex bg-white items-center text-2xl pr-2 underline">
+      Title
+    </div>
+    <div class="flex items-center p-8">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+    <a href="">
+      <img src="https://via.placeholder.com/300" alt="">
+    </a>
+  </div>
+</section>
+
+<section class="border-t">
+  <div class=" flex justify-between items-center p-6">
+    <div class="flex bg-white items-center text-2xl pr-2 underline">
+      Title
+    </div>
+    <div class="flex items-center p-8">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+    <a href="">
+      <img src="https://via.placeholder.com/300" alt="">
+    </a>
+  </div>
+</section>
+
+<section class="border-t">
+  <div class=" flex justify-between items-center p-6">
+    <div class="flex bg-white items-center text-2xl pr-2 underline">
+      Title
+    </div>
+    <div class="flex items-center p-8">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    </div>
+    <a href="">
+      <img src="https://via.placeholder.com/300" alt="">
+    </a>
+  </div>
+</section>
