@@ -1,0 +1,15 @@
+<nav class="border-b">
+  <div class="flex justify-between items-center p-3">
+    <div class="">
+      <a href="">
+        <img src="" alt="Logo">
+      </a>
+    </div>
+    <div class="flex items-center space-x-4 underline">
+      <a href="" class="transform transition duration-500 hover:scale-125">Home</a>
+      <a href="" class="transform transition duration-500 hover:scale-125">Menu</a>
+      <a href="" class="transform transition duration-500 hover:scale-125">Account</a>
+    </div>
+    <div>Order</div>
+  </div>
+</nav>
