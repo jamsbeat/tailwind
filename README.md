@@ -31,4 +31,6 @@
     https://www.figma.com/resource-library/what-is-wireframing/
   MailTrap :
     https://mailtrap.io/
+  Icons :
+    https://heroicons.com/
     
