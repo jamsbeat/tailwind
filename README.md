@@ -33,4 +33,5 @@
     https://mailtrap.io/
   Icons :
     https://heroicons.com/
-    
+  Navbar Inspo :
+    https://www.navbar.gallery/
