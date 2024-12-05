@@ -3,6 +3,8 @@
     https://github.com/tailwindlabs/prettier-plugin-tailwindcss
   Laravel Tailwind :
     https://tailwindcss.com/docs/guides/laravel
+  OhMyZsh Laravel Shortcuts :
+    https://github.com/ohmyzsh/ohmyzsh/tree/master/plugins/laravel
 
 
 
